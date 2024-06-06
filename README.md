@@ -17,7 +17,7 @@ This project demonstrates the A* pathfinding algorithm in a Unity environment. T
 
 ### Prerequisites
 - Windows or some .exe compiler.
-**For manual compiling, you will need:**
+<br>**For manual compiling, you will need:**<br>
   - Unity Hub
   - Unity version 2022.3.26f1 or later
 ### Installation
@@ -28,6 +28,16 @@ This project demonstrates the A* pathfinding algorithm in a Unity environment. T
    - Extract the downloaded rar file to your desired location.
 3. **Run the game:**
    - Execute the game file from the extracted contents.
+  
+<br>**To install the source code, just follow these steps:**<br>
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/CarlosRissati/A-star.git
+   ```
+2. **Open the project in Unity:**
+   - Open Unity Hub.
+   - Click on "Open" and navigate to the cloned repository folder.
+   - Select the project to load it into Unity.
   
 ## Manual Compiling
 1. Once the project is open in Unity, you can run the scene to see the A* algorithm in action.
