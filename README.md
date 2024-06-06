@@ -40,5 +40,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [A-star on GitHub](https://github.com/CarlosRissati/A-star)
 
 ---
-
-Você pode adaptar as seções conforme necessário e adicionar informações adicionais ou imagens para melhorar ainda mais o `README.md`.
